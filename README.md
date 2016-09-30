@@ -1,0 +1,2 @@
+# pygit
+Git, in Python
